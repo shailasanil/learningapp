@@ -1,0 +1,7 @@
+D:\Udemy\LearningAzure\LAzure\bin\Publish\LAzure.exe
+D:\Udemy\LearningAzure\LAzure\bin\Publish\appsettings.Development.json
+D:\Udemy\LearningAzure\LAzure\bin\Publish\appsettings.json
+D:\Udemy\LearningAzure\LAzure\bin\Publish\LAzure.dll
+D:\Udemy\LearningAzure\LAzure\bin\Publish\LAzure.deps.json
+D:\Udemy\LearningAzure\LAzure\bin\Publish\LAzure.runtimeconfig.json
+D:\Udemy\LearningAzure\LAzure\bin\Publish\LAzure.pdb
